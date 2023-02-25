@@ -3,7 +3,7 @@ Vector Space Model
 
 
 
-LAB ASSIGNEMENT 2
+LAB ASSIGNMENT 2
 Information Retrieval
 
 Riya Ralhan - 2010110524
